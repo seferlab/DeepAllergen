@@ -6,7 +6,7 @@ Allergies have become an emerging public health problem worldwide.It is critical
 ## Installation
 1. Download DeepAlgPro
 ```
-git clone https://github.com/chun-he-316/DeepAlgPro.git
+git clone 
 ```
 2. Install required packages<br>
 - python 3.9<br>
